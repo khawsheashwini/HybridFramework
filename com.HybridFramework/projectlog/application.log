@@ -1,0 +1,8 @@
+2022-02-24 18:07:53,882  INFO [main] TestBase:28 - reading a property from property file
+2022-02-24 18:07:53,886  INFO [main] TestBase:38 - value found in the property filr for the browser
+2022-02-24 18:07:53,886  INFO [main] TestBase:49 - initialising a browser with namechrome
+2022-02-24 18:07:53,886  INFO [main] TestBase:28 - reading a property from property file
+2022-02-24 18:07:53,887  INFO [main] TestBase:38 - value found in the property filr for the browser
+2022-02-24 18:08:00,144  INFO [main] TestBase:42 - launching an application
+2022-02-24 18:08:00,145  INFO [main] TestBase:28 - reading a property from property file
+2022-02-24 18:08:00,145  INFO [main] TestBase:38 - value found in the property filr for the url

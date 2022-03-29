@@ -1,0 +1,14 @@
+2021-06-27 09:38:01,443  INFO [main] TestDemo:19 - Print log of test01
+2021-06-27 09:38:01,450  INFO [main] TestDemo:27 - Print log of test02
+2021-06-27 09:51:57,996  INFO [main] ScrrenshotTC:32 - print login logs4
+2021-06-27 09:52:08,778  INFO [main] ScrrenshotTC:37 - print login logs5
+2021-06-27 09:52:08,789  INFO [main] ScrrenshotTC:40 - print login logs6
+2021-06-27 09:52:09,014  INFO [main] ScrrenshotTC:18 - print login logs1
+2021-06-27 09:52:18,986  INFO [main] ScrrenshotTC:23 - print login logs2
+2021-06-27 09:52:18,995  INFO [main] ScrrenshotTC:26 - print login logs3
+2021-06-27 09:54:25,981  INFO [main] ScrrenshotTC:32 - print login logs4
+2021-06-27 09:54:36,790  INFO [main] ScrrenshotTC:37 - print login logs5
+2021-06-27 09:54:36,797  INFO [main] ScrrenshotTC:40 - print login logs6
+2021-06-27 09:54:36,999  INFO [main] ScrrenshotTC:18 - print loginTitle logs1
+2021-06-27 09:54:47,002  INFO [main] ScrrenshotTC:23 - print loginTitle logs2
+2021-06-27 09:54:47,011  INFO [main] ScrrenshotTC:26 - print loginTitle logs3

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T08:48:46 IST" name="Default suite" finished-at="2022-01-11T08:48:57 IST" duration-ms="11229">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T08:48:46 IST" name="Default test" finished-at="2022-01-11T08:48:57 IST" duration-ms="11229">
+      <class name="com.jbk.SeptAug">
+        <test-method signature="verifyCoursesName()[pri:0, instance:com.jbk.SeptAug@6f01b95f]" started-at="2022-01-11T08:48:46 IST" name="verifyCoursesName" finished-at="2022-01-11T08:48:57 IST" duration-ms="11192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCoursesName -->
+      </class> <!-- com.jbk.SeptAug -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

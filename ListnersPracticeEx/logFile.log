@@ -1,0 +1,20 @@
+2021-06-20 10:54:28,642  INFO [main] ScrrenshotTC:32 - open browser login
+2021-06-20 10:54:39,171  INFO [main] ScrrenshotTC:37 - check title login
+2021-06-20 10:54:39,179 ERROR [main] ScrrenshotTC:40 - title not match
+2021-06-20 10:54:39,417  INFO [main] ScrrenshotTC:18 - open browser loginTitle
+2021-06-20 10:54:49,399  INFO [main] ScrrenshotTC:23 - check title loginTitle
+2021-06-20 10:54:49,406  INFO [main] ScrrenshotTC:26 - result of tilte loginTitle
+2021-06-20 10:58:37,373  INFO [main] ScrrenshotTC:13 - testcase01
+2021-06-20 10:58:37,383  INFO [main] ScrrenshotTC:20 - testcase02
+2021-06-27 09:12:16,567  INFO [main] ScrrenshotTC:32 - open browser login
+2021-06-27 09:12:28,685  INFO [main] ScrrenshotTC:37 - check title login
+2021-06-27 09:12:28,697 ERROR [main] ScrrenshotTC:40 - title not match
+2021-06-27 09:12:28,928  INFO [main] ScrrenshotTC:18 - open browser loginTitle
+2021-06-27 09:12:38,832  INFO [main] ScrrenshotTC:23 - check title loginTitle
+2021-06-27 09:12:38,842  INFO [main] ScrrenshotTC:26 - result of tilte loginTitle
+2021-06-27 09:15:40,607  INFO [main] ScrrenshotTC:32 - open browser login
+2021-06-27 09:15:51,336  INFO [main] ScrrenshotTC:37 - check title login
+2021-06-27 09:15:51,342 ERROR [main] ScrrenshotTC:40 - title not match
+2021-06-27 09:15:51,569  INFO [main] ScrrenshotTC:18 - open browser loginTitle
+2021-06-27 09:16:01,552  INFO [main] ScrrenshotTC:23 - check title loginTitle
+2021-06-27 09:16:01,567  INFO [main] ScrrenshotTC:26 - result of tilte loginTitle
